@@ -1,0 +1,47 @@
+#box1{
+    /*we are moving elements relative to their normal location*/
+
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    position: relative;
+    top: 100px;
+    left: 100px;
+
+}
+
+
+/*#box1{*/
+/*    !*we are making it fixed on the page*!*/
+
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    background-color: lightblue;*/
+/*    position: fixed;*/
+/*    top: 100px;*/
+/*    right: 0px;*/
+
+/*}*/
+
+
+/*#box1{*/
+/*    !*we are moving elements relative to their normal location*!*/
+
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    background-color: lightblue;*/
+/*    position: relative;*/
+/*    top: 100px;*/
+/*    left: 100px;*/
+
+/*}*/
+
+/*#box2{*/
+/*    !*we are moving elements relative to their ancestor*!*/
+
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*    background-color: red;*/
+/*    position: absolute;*/
+
+/*}*/
